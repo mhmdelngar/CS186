@@ -4,21 +4,6 @@ This repo contains all the learning materials for Berkeley's Database course CS1
 
 ## Course Resources
 
- ### General
-
-[Course website](https://cs186berkeley.net/fa20/): I used the 2021 spring version.
-
-[Recorded videos](https://www.youtube.com/user/CS186Berkeley/playlists): I watched the recorded videos on Youtube, you can also find the same videos on bilibili. 
-
-Vitamin:  Vitamins are short, weekly assignments to keep you on schedule and check your understanding of the basics from lecture. However these assignments are not open to the public, you can find them on the [Edx's archived CS186W](https://learning.edge.edx.org/course/course-v1:BerkeleyX+CS186+2018_SP/). You can also download the ppt and watch course videos on Edx.
-
-[PPT](./ppt): I downloaded them from Edx.
-
-[Notes](./notes): These notes serve as a great explanation and conclusion of the course contents. I read the 2021 spring version.
-
-[Discussion](./discussion): Enhance your understanding of the course contents.
-
-[Exam-preparation](./exam-prep): Review the course contents and practice on some exam-like problems.
 
 ### Projects
 
@@ -36,6 +21,24 @@ There are six projects in total. There is a [gitbook](https://cs186.gitbook.io/p
 - Project 6: NoSQL
   - You will learn to write mongodb queries in this project.
   - My implementation is in this [repo](https://github.com/mhmdelngar/CS186-proj6).
+
+ ### General
+
+[Course website](https://cs186berkeley.net/fa20/): I used the 2021 spring version.
+
+[Recorded videos](https://www.youtube.com/user/CS186Berkeley/playlists): I watched the recorded videos on Youtube, you can also find the same videos on bilibili. 
+
+Vitamin:  Vitamins are short, weekly assignments to keep you on schedule and check your understanding of the basics from lecture. However these assignments are not open to the public, you can find them on the [Edx's archived CS186W](https://learning.edge.edx.org/course/course-v1:BerkeleyX+CS186+2018_SP/). You can also download the ppt and watch course videos on Edx.
+
+[PPT](./ppt): I downloaded them from Edx.
+
+[Notes](./notes): These notes serve as a great explanation and conclusion of the course contents. I read the 2021 spring version.
+
+[Discussion](./discussion): Enhance your understanding of the course contents.
+
+[Exam-preparation](./exam-prep): Review the course contents and practice on some exam-like problems.
+
+
 
 
 
